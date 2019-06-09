@@ -1,0 +1,142 @@
+%YAML 1.1
+---
+actions:
+- utter_ask_name
+- utter_thanks
+- utter_greet
+- utter_ask_age
+- utter_ask_phone
+- utter_ask_birthday
+- utter_ask_address
+- utter_ask_networth
+- utter_ask_employ
+- utter_ask_risk
+- utter_goodbye
+- action_wealthbot1
+- action_wealthbot2
+- action_stockinfo
+- utter_client
+- utter_ask_email
+- utter_ask_password
+- utter_ask_financial_goal
+config:
+  store_entities_as_slots: true
+entities:
+- name
+- phone
+- age
+- birthday
+- address
+- networth
+- employ
+- risk
+- email
+- password
+- stock
+forms: []
+intents:
+- greet:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- thanks:
+    use_entities: true
+- deny:
+    use_entities: true
+- wealthbot_consulting:
+    use_entities: true
+- affirm:
+    use_entities: true
+- stock_consulting:
+    use_entities: true
+slots:
+  address:
+    auto_fill: true
+    initial_value: hongkong
+    type: rasa_core.slots.TextSlot
+  age:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.UnfeaturizedSlot
+  birthday:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  email:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  employ:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  name:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  networth:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  password:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  phone:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  stock:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_ask_address:
+  - text: Where are you living?
+  utter_ask_age:
+  - text: How old are you?
+  utter_ask_birthday:
+  - text: When is your birthday
+  utter_ask_email:
+  - text: Please enter your email account.
+  utter_ask_employ:
+  - buttons:
+    - payload: /choose{"employ":"Employed"}
+      title: Employed
+    - payload: /choose{"employ":"Self-employed"}
+      title: Self-employed
+    - payload: /choose{"employ":"Retired"}
+      title: Retired
+    - payload: /choose{"employ":"Unemployed"}
+      title: Unemployed
+    text: Could you tell me your employment status? Please answer this within 'Employed',
+      'Self-employed','Retired','Unemployed'
+  utter_ask_financial_goal:
+  - text: 'Choose the statement that best reflects your thoughts about reaching your
+      financial goal: 30 interested in steady returns if i accept lowewr returns 31
+      interestesd in maximizing long term gains, even if i experience short term losses'
+  utter_ask_name:
+  - text: OK, we need to collect some personal data. Could you please tell me you
+      name?
+  utter_ask_networth:
+  - text: What is your net worth?
+  utter_ask_password:
+  - text: 'Please enter your password. '
+  utter_ask_phone:
+  - text: Nice to you meet you {name}. Tell me your phone number, please
+  utter_ask_risk:
+  - text: To assess your risk and return objective, we would like to ask you a few
+      questions. Firstly, fo you prefer an investment with steady but lower return,
+      or risky but higher return in the long run?
+  utter_client:
+  - text: 'Have you already been a client? '
+  utter_goodbye:
+  - text: Talk to you later!
+  - text: Goodbye~
+  - text: Bye
+  - text: See you
+  - text: Sayounara
+  utter_greet:
+  - text: Hello, how can I help?
+  utter_thanks:
+  - text: My pleasure.

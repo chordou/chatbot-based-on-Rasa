@@ -1,0 +1,1973 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "goodbye",
+        "text": "Bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Bye bot"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Goodbye friend"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye for now"
+      },
+      {
+        "intent": "goodbye",
+        "text": "catch you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "gotta go"
+      },
+      {
+        "intent": "goodbye",
+        "text": "See you"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodnight"
+      },
+      {
+        "intent": "goodbye",
+        "text": "have a nice day"
+      },
+      {
+        "intent": "goodbye",
+        "text": "i'm off"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you later alligator"
+      },
+      {
+        "intent": "goodbye",
+        "text": "we'll speak soon"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "hi again"
+      },
+      {
+        "intent": "greet",
+        "text": "hi folks"
+      },
+      {
+        "intent": "greet",
+        "text": "hi Mister"
+      },
+      {
+        "intent": "greet",
+        "text": "hi pal!"
+      },
+      {
+        "intent": "greet",
+        "text": "hi there"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "intent": "greet",
+        "text": "hello everybody"
+      },
+      {
+        "intent": "greet",
+        "text": "hello is anybody there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "20",
+            "entity": "age"
+          }
+        ],
+        "text": "I am 20"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 2,
+            "value": "10",
+            "entity": "age"
+          }
+        ],
+        "text": "10"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 16,
+            "value": "19",
+            "entity": "age"
+          }
+        ],
+        "text": "At the age of 19"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "37",
+            "entity": "age"
+          }
+        ],
+        "text": "Age of 37"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thank you so much"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks bot"
+      },
+      {
+        "intent": "thanks",
+        "text": "Thanks for that"
+      },
+      {
+        "intent": "thanks",
+        "text": "cheers"
+      },
+      {
+        "intent": "thanks",
+        "text": "cheers bro"
+      },
+      {
+        "intent": "thanks",
+        "text": "ok thanks!"
+      },
+      {
+        "intent": "thanks",
+        "text": "perfect thank you"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks a bunch for everything"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks for the help"
+      },
+      {
+        "intent": "thanks",
+        "text": "thanks a lot"
+      },
+      {
+        "intent": "thanks",
+        "text": "amazing, thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "cool, thanks"
+      },
+      {
+        "intent": "thanks",
+        "text": "cool thank you"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "absolutely"
+      },
+      {
+        "intent": "affirm",
+        "text": "for sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes yes yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "definitely"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "Juste",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is Juste"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 9,
+            "value": "Josh",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Josh"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "Lucy",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm Lucy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "Greg",
+            "entity": "name"
+          }
+        ],
+        "text": "People call me Greg"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "David",
+            "entity": "name"
+          }
+        ],
+        "text": "It's David"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "Amy",
+            "entity": "name"
+          }
+        ],
+        "text": "Usually people call me Amy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "John",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is John"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "Sam",
+            "entity": "name"
+          }
+        ],
+        "text": "You can call me Sam"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 20,
+            "value": "Linda",
+            "entity": "name"
+          }
+        ],
+        "text": "Please call me Linda"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 13,
+            "end": 16,
+            "value": "Tom",
+            "entity": "name"
+          }
+        ],
+        "text": "Name name is Tom"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Richard",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Richard"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 9,
+            "value": "Tracy",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm Tracy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "Sally",
+            "entity": "name"
+          }
+        ],
+        "text": "Call me Sally"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Philipp",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Philipp"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Charlie",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Charlie"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "Charlie",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Charlie"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "Ben",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Ben"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "Susan",
+            "entity": "name"
+          }
+        ],
+        "text": "Call me Susan"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Lucy",
+            "entity": "name"
+          }
+        ],
+        "text": "Lucy"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Peter",
+            "entity": "name"
+          }
+        ],
+        "text": "Peter"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Mark",
+            "entity": "name"
+          }
+        ],
+        "text": "Mark"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Joseph",
+            "entity": "name"
+          }
+        ],
+        "text": "Joseph"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "Tan",
+            "entity": "name"
+          }
+        ],
+        "text": "Tan"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Pete",
+            "entity": "name"
+          }
+        ],
+        "text": "Pete"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Elon",
+            "entity": "name"
+          }
+        ],
+        "text": "Elon"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Penny",
+            "entity": "name"
+          }
+        ],
+        "text": "Penny"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 14,
+            "value": "Andrew",
+            "entity": "name"
+          }
+        ],
+        "text": "name is Andrew"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 2,
+            "end": 6,
+            "value": "Lora",
+            "entity": "name"
+          }
+        ],
+        "text": "I Lora"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Stan",
+            "entity": "name"
+          }
+        ],
+        "text": "Stan is my name"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Susan",
+            "entity": "name"
+          }
+        ],
+        "text": "Susan is the name"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Ross",
+            "entity": "name"
+          }
+        ],
+        "text": "Ross is my first name"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Bing",
+            "entity": "name"
+          }
+        ],
+        "text": "Bing is my last name"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 23,
+            "value": "Angelina",
+            "entity": "name"
+          }
+        ],
+        "text": "Few call me as Angelina"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "Julia",
+            "entity": "name"
+          }
+        ],
+        "text": "Some call me Julia"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 18,
+            "end": 23,
+            "value": "Laura",
+            "entity": "name"
+          }
+        ],
+        "text": "Everyone calls me Laura"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "Ganesh",
+            "entity": "name"
+          }
+        ],
+        "text": "I am Ganesh"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "Mike",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is Mike"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "Monika",
+            "entity": "name"
+          }
+        ],
+        "text": "just call me Monika"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "Dan",
+            "entity": "name"
+          }
+        ],
+        "text": "Few call Dan"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "Suraj",
+            "entity": "name"
+          }
+        ],
+        "text": "You can always call me Suraj"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "Andrew",
+            "entity": "name"
+          }
+        ],
+        "text": "Some will call me Andrew"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "Ajay",
+            "entity": "name"
+          }
+        ],
+        "text": "My name is Ajay"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "Ding",
+            "entity": "name"
+          }
+        ],
+        "text": "I call Ding"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 4,
+            "end": 10,
+            "value": "Partia",
+            "entity": "name"
+          }
+        ],
+        "text": "I'm Partia"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 15,
+            "end": 18,
+            "value": "Leo",
+            "entity": "name"
+          }
+        ],
+        "text": "Please call me Leo"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "Pari",
+            "entity": "name"
+          }
+        ],
+        "text": "name is Pari"
+      },
+      {
+        "intent": "name",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "Sanjay",
+            "entity": "name"
+          }
+        ],
+        "text": "name Sanjay"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "12345678",
+            "entity": "phone"
+          }
+        ],
+        "text": "My phone number is 12345678"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "59312762",
+            "entity": "phone"
+          }
+        ],
+        "text": "59312762"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "12345678",
+            "entity": "phone"
+          }
+        ],
+        "text": "My phone is 12345678"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 4,
+            "end": 12,
+            "value": "59731654",
+            "entity": "phone"
+          }
+        ],
+        "text": "TEL:59731654"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 13,
+            "end": 21,
+            "value": "12345678",
+            "entity": "phone"
+          }
+        ],
+        "text": "You can call 12345678"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 15,
+            "end": 23,
+            "value": "11111111",
+            "entity": "birthday"
+          }
+        ],
+        "text": "My birthday is 11111111"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 22,
+            "value": "11111111",
+            "entity": "birthday"
+          }
+        ],
+        "text": "I was born on 11111111"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "11111111",
+            "entity": "birthday"
+          }
+        ],
+        "text": "11111111"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "11111111",
+            "entity": "birthday"
+          }
+        ],
+        "text": "Birthday11111111"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 8,
+            "end": 16,
+            "value": "11111111",
+            "entity": "birthday"
+          }
+        ],
+        "text": "born on 11111111"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 12,
+            "end": 20,
+            "value": "11111111",
+            "entity": "birthday"
+          }
+        ],
+        "text": "birthday is 11111111"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "taposai",
+            "entity": "address"
+          }
+        ],
+        "text": "My address is taposai"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "lohaspark",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in lohaspark"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "taposai",
+            "entity": "address"
+          }
+        ],
+        "text": "taposai"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 22,
+            "value": "shenzhen",
+            "entity": "address"
+          }
+        ],
+        "text": "My home is at shenzhen"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 3,
+            "end": 11,
+            "value": "hang hou",
+            "entity": "address"
+          }
+        ],
+        "text": "In hang hou"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 12,
+            "end": 15,
+            "value": "500",
+            "entity": "networth"
+          }
+        ],
+        "text": "It is about 500"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "400",
+            "entity": "networth"
+          }
+        ],
+        "text": "My networth is around 400"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "500",
+            "entity": "networth"
+          }
+        ],
+        "text": "I have 500 networth"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 29,
+            "end": 32,
+            "value": "500",
+            "entity": "networth"
+          }
+        ],
+        "text": "The amount of my networth is 500"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 22,
+            "value": "employed",
+            "entity": "employ"
+          }
+        ],
+        "text": "I'm currently employed"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 24,
+            "value": "unemployed",
+            "entity": "employ"
+          }
+        ],
+        "text": "I'm currently unemployed"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "emlpoyed",
+            "entity": "employ"
+          }
+        ],
+        "text": "yep, emlpoyed"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 4,
+            "end": 14,
+            "value": "unemployed",
+            "entity": "employ"
+          }
+        ],
+        "text": "No, unemployed"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "self-employed",
+            "entity": "employ"
+          }
+        ],
+        "text": "I am self-employed"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 12,
+            "value": "retired",
+            "entity": "employ"
+          }
+        ],
+        "text": "I am retired"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I accept high risk"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I think high risk is better"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "risky"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I don't think risky investment is better"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I prefer low risky"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I think low risk is better"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I think low risk with low retun is good enough"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I think steady is better"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "steady but low return is OK"
+      },
+      {
+        "intent": "joke",
+        "text": "Can you tell me a joke?"
+      },
+      {
+        "intent": "joke",
+        "text": "I would like to hear a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "Tell me a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "A joke"
+      },
+      {
+        "intent": "joke",
+        "text": "I need to hear a jokejoke please"
+      },
+      {
+        "intent": "joke",
+        "text": "Tell me a joke please"
+      },
+      {
+        "intent": "joke",
+        "text": "I would like to hear a joke"
+      },
+      {
+        "intent": "joke",
+        "text": "I would loke to hear a joke, please"
+      },
+      {
+        "intent": "joke",
+        "text": "Can you tell jokes?"
+      },
+      {
+        "intent": "joke",
+        "text": "Please tell me a"
+      },
+      {
+        "intent": "age",
+        "entities": [
+          {
+            "start": 4,
+            "end": 6,
+            "value": "58",
+            "entity": "age"
+          }
+        ],
+        "text": "I'm 58"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 2,
+            "value": "60",
+            "entity": "age"
+          }
+        ],
+        "text": "60 years old"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "35",
+            "entity": "age"
+          }
+        ],
+        "text": "i am 35"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "55",
+            "entity": "age"
+          }
+        ],
+        "text": "I am 55 years old"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "21",
+            "entity": "age"
+          }
+        ],
+        "text": "I am 21 years old"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "19 ",
+            "entity": "age"
+          }
+        ],
+        "text": "19 yeas old"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 16,
+            "value": "29",
+            "entity": "age"
+          }
+        ],
+        "text": "at the age of 29"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 4,
+            "end": 6,
+            "value": "40",
+            "entity": "age"
+          }
+        ],
+        "text": "I'm 40"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 4,
+            "end": 6,
+            "value": "48",
+            "entity": "age"
+          }
+        ],
+        "text": "I'm 48"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 4,
+            "end": 6,
+            "value": "31",
+            "entity": "age"
+          }
+        ],
+        "text": "I'm 31"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "50",
+            "entity": "age"
+          }
+        ],
+        "text": "nearly 50 yeas old"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "36",
+            "entity": "age"
+          }
+        ],
+        "text": "nearly 36 years"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 15,
+            "end": 23,
+            "value": "20110927",
+            "entity": "birthday"
+          }
+        ],
+        "text": "My birthday is 20110927"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 22,
+            "value": "shanghai",
+            "entity": "address"
+          }
+        ],
+        "text": "my address is shanghai"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "london",
+            "entity": "address"
+          }
+        ],
+        "text": "i live in london"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "hang hou",
+            "entity": "address"
+          }
+        ],
+        "text": "i live in hang hou"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "central",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in central"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 3,
+            "end": 10,
+            "value": "nanshan",
+            "entity": "address"
+          }
+        ],
+        "text": "in nanshan"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 3,
+            "end": 10,
+            "value": "taposai",
+            "entity": "address"
+          }
+        ],
+        "text": "in taposai"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 3,
+            "end": 16,
+            "value": "tseung kwan o",
+            "entity": "address"
+          }
+        ],
+        "text": "in tseung kwan o"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "Yau Tong",
+            "entity": "address"
+          }
+        ],
+        "text": "i live in Yau Tong"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "Lam Tin",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in Lam Tin"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 15,
+            "end": 18,
+            "value": "300",
+            "entity": "networth"
+          }
+        ],
+        "text": "my networth is 300 around"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 15,
+            "end": 18,
+            "value": "600",
+            "entity": "networth"
+          }
+        ],
+        "text": "my networth is 600"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "text": "I want to consult a wealthbot"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "Yes"
+      },
+      {
+        "intent": "affirm",
+        "text": "sure"
+      },
+      {
+        "intent": "affirm",
+        "text": "surly"
+      },
+      {
+        "intent": "affirm",
+        "text": "of course"
+      },
+      {
+        "intent": "affirm",
+        "text": "yes, I have"
+      },
+      {
+        "intent": "affirm",
+        "text": "Sure, I have one"
+      },
+      {
+        "intent": "affirm",
+        "text": "Of course, I have"
+      },
+      {
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "intent": "deny",
+        "text": "No"
+      },
+      {
+        "intent": "deny",
+        "text": "No, I don't have one"
+      },
+      {
+        "intent": "deny",
+        "text": "No, I haven't"
+      },
+      {
+        "intent": "deny",
+        "text": "Sorry, I don't have one"
+      },
+      {
+        "intent": "deny",
+        "text": "no no no"
+      },
+      {
+        "intent": "deny",
+        "text": "not yet"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "lizelee@126.com",
+            "entity": "email"
+          }
+        ],
+        "text": "lizelee@126.com"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "zlidx@connect.ust.hk",
+            "entity": "email"
+          }
+        ],
+        "text": "zlidx@connect.ust.hk"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "114783499@qq.com",
+            "entity": "email"
+          }
+        ],
+        "text": "114783499@qq.com"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "tomlee@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "tomlee@gmail.com"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "tonyzhang@yahoo.com",
+            "entity": "email"
+          }
+        ],
+        "text": "tonyzhang@yahoo.com"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "lzee@qq.com",
+            "entity": "email"
+          }
+        ],
+        "text": "lzee@qq.com"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "victor.lee@gmail.com",
+            "entity": "email"
+          }
+        ],
+        "text": "victor.lee@gmail.com"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "lz123456",
+            "entity": "password"
+          }
+        ],
+        "text": "lz123456"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "sddfd3435435",
+            "entity": "password"
+          }
+        ],
+        "text": "sddfd3435435"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "jzlisd5573227",
+            "entity": "password"
+          }
+        ],
+        "text": "jzlisd5573227"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "qwert1478",
+            "entity": "password"
+          }
+        ],
+        "text": "qwert1478"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "tl_4955slfsg",
+            "entity": "password"
+          }
+        ],
+        "text": "tl_4955slfsg"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Lkdjfg327325",
+            "entity": "password"
+          }
+        ],
+        "text": "Lkdjfg327325"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 21,
+            "value": "taposai",
+            "entity": "address"
+          }
+        ],
+        "text": "My address is taposai"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "shenzhen",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in shenzhen"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "guangzhou",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in guangzhou"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "Shenzhen",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in Shenzhen"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 24,
+            "value": "lohas park",
+            "entity": "address"
+          }
+        ],
+        "text": "My home is at lohas park"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 24,
+            "value": "manchester",
+            "entity": "address"
+          }
+        ],
+        "text": "My address is manchester"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "madrid",
+            "entity": "address"
+          }
+        ],
+        "text": "my address is madrid"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "fulham",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in fulham"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 20,
+            "value": "Lohas park",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in Lohas park"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "mong kok",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in mong kok"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "kwoloon",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in kwoloon"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "tin hau",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in tin hau"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "sz002184",
+            "entity": "stock"
+          }
+        ],
+        "text": "tell me the stock price of sz002184"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 34,
+            "end": 42,
+            "value": "sz002184",
+            "entity": "stock"
+          }
+        ],
+        "text": "i want to know the stock price of sz002184"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "sz002471",
+            "entity": "stock"
+          }
+        ],
+        "text": "what is the stock price of sz002471"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "sz300161",
+            "entity": "stock"
+          }
+        ],
+        "text": "tell me the stock price of sz300161"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "sz002310",
+            "entity": "stock"
+          }
+        ],
+        "text": "tell me the stock price of sz002310"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 30,
+            "end": 38,
+            "value": "sh601985",
+            "entity": "stock"
+          }
+        ],
+        "text": "what about the stock price of sh601985"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "sh601766",
+            "entity": "stock"
+          }
+        ],
+        "text": "tell me the stock price of sh601766"
+      },
+      {
+        "intent": "stock_consulting",
+        "entities": [
+          {
+            "start": 27,
+            "end": 35,
+            "value": "sz000651",
+            "entity": "stock"
+          }
+        ],
+        "text": "what is the stock price of sz000651"
+      },
+      {
+        "intent": "wealthbot_consulting",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "shenzhen",
+            "entity": "address"
+          }
+        ],
+        "text": "I live in shenzhen"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

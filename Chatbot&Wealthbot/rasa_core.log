@@ -1,0 +1,2032 @@
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Couldn't create message for template 'utter_ask_age'.
+Couldn't create message for template 'utter_ask_birthday'.
+Couldn't create message for template 'utter_ask_address'.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Couldn't create message for template 'utter_ask_age'.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Couldn't create message for template 'utter_ask_age'.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_register'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_register'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_register'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_register'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_register'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_register'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_register'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BC8CC49048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_register'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_stockinfo'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D05A7F3208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018AE73156D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot2'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001945158C390>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194517E4F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194519F8EF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019451CD9390>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019451DD83C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5002
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'1'
+b'1'
+b'\xe7\x89\x9b\xe9\x80\xbc\xe5\x95\x8a'
+b'hongkong'
+b'500'
+b'20'
+b'19941121'
+b'hongkong'
+b'hongkong'
+b'20'
+b'20'
+b'19941121'
+b'i live in hongkong'
+b'i live in hongkong'
+b'my networth is 5000'
+b'Employed'
+b'higher return in the long run'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot'
+b'no'
+b'kang'
+b'92939694'
+b'i am 20 years old'
+b'it is 19941121'
+b'i live in hongkong'
+b'it is about 50000'
+b'it is about 10'
+b'my networth is 50000'
+b'Employed'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot'
+b'no'
+b'kang'
+b'92949393'
+b'20'
+b'19941121'
+b'hongkong'
+b'20000'
+b'20000'
+b'200000'
+Couldn't create message for template 'utter_ask_returns'.
+b'it is 20000'
+b'my networth is 20000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Couldn't create message for template 'utter_ask_returns'.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot'
+b'no'
+b'kang'
+b'92939393'
+b'28'
+b'1991121'
+b'hongkong'
+b'2000'
+b'20000'
+b'20000'
+Couldn't create message for template 'utter_ask_returns'.
+b'20000'
+b'hello'
+b'wealthbot'
+b'he'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'welath'
+b'no'
+b'kang'
+b'92929292'
+b'20'
+b'19941121'
+b'in hongkong'
+b'is 20000'
+b'tax rate is 10'
+b'net worth is 20000'
+b'interested in steady returns if i accept lowewr returns'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'heloo'
+b'wealthbot'
+b'no'
+b'kang'
+b'92929292'
+b'20'
+b'19941121'
+b'in hongkong'
+b'it is 20000'
+b'it is 20'
+b'it is 20000'
+b'interested in steady returns if i accept lowewr returns'
+b'20000'
+Couldn't create message for template 'utter_ask_returns'.
+b'it is 20000'
+b'yes'
+Couldn't create message for template 'utter_ask_returns'.
+b'hell'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealth'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot'
+b'no'
+b'kang'
+b'92939495'
+b'29'
+b'19941121'
+b'in hongkong'
+b'it is 20000'
+b'it is 20'
+b'it is 20000'
+b'the net worth is 20000'
+b'hi'
+b'wealthbot'
+b'no'
+b'kang'
+b'92929292'
+b'20'
+b'19941121'
+b'in hongkong'
+b'it is 20000'
+b'tax rate is 20'
+b'net worth is 30000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot'
+b'no'
+b'kang'
+b'92929292'
+b'29'
+b'19941121'
+b'in hongkong'
+b'annual income is 20000'
+b'tax rate is 20'
+b'net worth is 30000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot'
+b'no'
+b'kang'
+b'92939495'
+b'20'
+b'19941121'
+b'in hongkong'
+b'annual income is 20000'
+b'annual income is 20000'
+b'tax rate is 20'
+b'tax rate is 20%'
+b'hi'
+b'wealthbot'
+b'no'
+b'kang'
+b'02020202'
+b'20'
+b'19941121'
+b'in hongkong'
+b'annual income is 20000'
+b'my annual income is 30000'
+b'my tax rate is 20%'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'my phone is 92929292'
+b'i am 20 years old'
+b'my birthday is 19941121'
+b'i live in hongkong'
+b'i live in hongkong'
+b'my tax rate is 20'
+b'my tax rate is 20'
+b'i live in hongkong'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'my annual income is 50000'
+b'my tax rate is 20'
+b'my net worth is 40000'
+b'interested in steady returns if i accept lowewr returns'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'yes'
+b'yes'
+b'my account money is 400000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'my annual income is 50000'
+b'my tax rate is 20%'
+b'my net worth is 50000'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b' -15'
+b'yes'
+b'my account money is 400000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'my annual income is 50000'
+b'my tax rate is 20'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'yes'
+b'about 400000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+Invalid to parse arguments in line '/choose{"income":'$50,001-$75,000'}'. Failed to decode parametersas a json object. Make sure the intentfollowed by a proper json object. Error: Expecting value: line 1 column 11 (char 10)
+b'it is 20'
+b'it is 40000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'1'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+Invalid to parse arguments in line '/choose{income":'$0-$50,000'}'. Failed to decode parametersas a json object. Make sure the intentfollowed by a proper json object. Error: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+b'it is 20'
+b'$0-$25,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'yes'
+b'my account money is 20000'
+Categorical slot 'networth' is set to a value ('20000') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'networth' is set to a value ('20000') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+Invalid to parse arguments in line '/choose{income":'$0-$50,000'}'. Failed to decode parametersas a json object. Make sure the intentfollowed by a proper json object. Error: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot'
+b'wea'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+Invalid to parse arguments in line '/choose{income":"$0-$50,000"}'. Failed to decode parametersas a json object. Make sure the intentfollowed by a proper json object. Error: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+b'it is 20'
+b'$0-$25,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'yes'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'it is 20'
+b'$$25,001-$50,000'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'yes'
+b'it is about 200000'
+Categorical slot 'networth' is set to a value ('200000') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'networth' is set to a value ('200000') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20%'
+b'$$25,001-$50,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'yes'
+b'my account money is about 200000'
+Categorical slot 'networth' is set to a value ('200000') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Categorical slot 'networth' is set to a value ('200000') that is not specified in the domain. Value will be ignored and the slot will behave as if no value is set. Make sure to add all values a categorical slot should store to the domain.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+b'it is 20'
+b'$$25,001-$50,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'yes'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'yes'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+b'it is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kanh'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongk'
+b'$50,001-$75,000'
+b'it is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'hi'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$75,001-$100,000'
+b'it is 20'
+b'$50,001-$100,000'
+b'Employed'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Self-employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'stock consulting'
+b'hi'
+b'stock consulting'
+b'hi'
+b'what is the price of 000001.sh'
+b'hi'
+b'what is the price of sz300370'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'tell me the stock price of sz300370'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_stockinfo'. Couldn't connect to the server at 'http://localhost:5005/webhooks/slack/webhook'. Is the server running? Error: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 404. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 404 Client Error: NOT FOUND for url: http://localhost:5055/webhooks/slack/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_stockinfo'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: HTTPConnectionPool(host='localhost', port=5055): Max retries exceeded with url: /webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F0F7E14B70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'Wait wait wait'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$0-$25,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Failed to run custom action 'action_wealthbot2'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Failed to run custom action 'action_wealthbot2'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Failed to run custom action 'action_wealthbot2'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$$25,001-$50,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Failed to run custom action 'action_wealthbot2'. Couldn't connect to the server at 'http://localhost:5055/webhook'. Is the server running? Error: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot, please'
+b'no'
+b'my name is kang'
+b'i live in hongkang'
+b'$0-$50,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Failed to run custom action 'action_wealthbot2'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$0-$25,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Failed to run custom action 'action_wealthbot2'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot2'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'hi'
+b'tell me the stock price of sz300370'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hk'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'byebye'
+b'see you'
+b'hi'
+b'hi'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$100,001-$200,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$0-$50,000'
+b'my tax rate is 20'
+b'$$25,001-$50,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'hi'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kangg'
+b'i live in homgkong'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$100,001-$200,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'hi'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in kongnog'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'hello'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hello'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,pleasse'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+b'hi'
+b'tell me the stock price of sz30037p0'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'tell me the stock price of sz300370'
+b'hi'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'tell me the stock price of sz300370'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hi'
+b'tell me the stock price of sz300370'
+b'goodbye'
+b'hi'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sinna.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+b'see you'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$50,001-$75,000'
+b'it is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+b'see you'
+b'hi'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'tell me the stock price of sz300370'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'tell me the stock price of sz300370'
+b'goobye'
+b'consult wealthbot'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hello'
+b'consult wealtbo'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+Failed to run custom action 'action_wealthbot1'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_wealthbot1'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'hi'
+b'wealthbot,please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+b'goodbye'
+b'hi'
+b'wealthbot,please'
+b'no'
+b'my name is kang'
+b'i live in hongkong'
+b'$75,001-$100,000'
+b'my tax rate is 20'
+b'$50,001-$100,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell all of your investments'
+b'bang'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'consult a wealtbot please'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+b'goodbye'
+b'hello'
+b'consult a wealthbot please'
+b'no'
+b'call me Tom'
+b'I live in hongkong'
+b'$75,001-$100,000'
+b'10'
+b'$$25,001-$50,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell some'
+b'gun'
+b'thank you'
+b'hello'
+b'tell me the stock price of sz300370'
+Failed to run custom action 'action_stockinfo'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_stockinfo'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+b'tell me the stock price of sz300370'
+b'hello'
+b'tell me the stock price of sz300370'
+Rasa process starting
+Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator SVC from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+C:\Users\kxf\AppData\Roaming\Python\Python36\site-packages\sklearn\base.py:253: UserWarning: Trying to unpickle estimator GridSearchCV from version 0.20.1 when using version 0.20.3. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+
+Rasa Core server is up and running on http://localhost:5005
+b'hello'
+b'consult a wealthbot plz'
+b'yes'
+b'kyc1212@sina.com'
+b'12q12q12q'
+b'goodbye'
+b'hello'
+b'consult a wealthbot'
+b'no'
+b'call me Tom'
+b'i live in hongkong'
+b'$100,001-$150,000'
+b'10'
+b'$$25,001-$50,000'
+b'Employed'
+b'interested in steady returns if i accept lowewr returns'
+b' -15'
+b'sell some'
+b'gun'
+b'goodbye'
+b'hello'
+b'tell me the stock price of sz300370'
+b'thank you'

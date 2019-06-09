@@ -1,0 +1,248 @@
+%YAML 1.1
+---
+actions:
+- utter_greet
+- utter_goodbye
+- utter_ask_financial_goal
+- utter_ask_money
+- utter_ask_networth
+- utter_ask_email
+- utter_ask_tax
+- utter_need_yes
+- utter_ask_income
+- action_wealthbot2
+- utter_ask_need
+- utter_ask_employ
+- action_wealthbot1
+- utter_ask_address
+- action_stockinfo
+- utter_ask_password
+- utter_ask_name
+- utter_ask_would
+- utter_need_no
+- utter_client
+- utter_thanks
+- utter_ask_returns
+config:
+  store_entities_as_slots: true
+entities:
+- address
+- email
+- password
+- would
+- money
+- networth
+- tax
+- financial_goal
+- stock
+- income
+- employ
+- name
+- returns
+- need
+- phone
+forms: []
+intents:
+- name:
+    use_entities: true
+- wealthbot_consulting:
+    use_entities: true
+- deny:
+    use_entities: true
+- greet:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- thanks:
+    use_entities: true
+- affirm:
+    use_entities: true
+- stock_consulting:
+    use_entities: true
+slots:
+  address:
+    auto_fill: true
+    initial_value: hongkong
+    type: rasa_core.slots.TextSlot
+  email:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  employ:
+    auto_fill: true
+    initial_value: Employed
+    type: rasa_core.slots.TextSlot
+  financial_goal:
+    auto_fill: true
+    initial_value: '30'
+    type: rasa_core.slots.TextSlot
+  income:
+    auto_fill: true
+    initial_value: $50,001-$75,000
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - $0-$50,000
+    - $50,001-$75,000
+    - $75,001-$100,000
+    - $100,001-$150,000
+    - $150,001-$250,000
+    - $250,001 +
+  money:
+    auto_fill: true
+    initial_value: 200000
+    type: rasa_core.slots.TextSlot
+  name:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  need:
+    auto_fill: true
+    initial_value: 1
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - '1'
+    - '0'
+  networth:
+    auto_fill: true
+    initial_value: $25,001-$50,000
+    type: rasa_core.slots.CategoricalSlot
+    values:
+    - $0-$25,000
+    - $25,001-$50,000
+    - $50,001-$100,000
+    - $100,001-$200,000
+    - $200,001-$350,000
+    - $350,001-$700,000
+    - $700,001-$1,000,000
+    - $1,000,000 +
+  password:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  returns:
+    auto_fill: true
+    initial_value: 27
+    type: rasa_core.slots.TextSlot
+  stock:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  tax:
+    auto_fill: true
+    initial_value: 20
+    type: rasa_core.slots.TextSlot
+  would:
+    auto_fill: true
+    initial_value: 24
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_ask_address:
+  - text: Where are you living?
+  utter_ask_email:
+  - text: Please enter your email account.
+  utter_ask_employ:
+  - buttons:
+    - payload: /choose{"employ":"Employed"}
+      title: Employed
+    - payload: /choose{"employ":"Self-employed"}
+      title: Self-employed
+    - payload: /choose{"employ":"Retired"}
+      title: Retired
+    - payload: /choose{"employ":"Unemployed"}
+      title: Unemployed
+    text: Could you tell me your employment status? Please answer this within 'Employed',
+      'Self-employed','Retired','Unemployed'
+  utter_ask_financial_goal:
+  - buttons:
+    - payload: /choose{"financial_goal":"lowewr returns"}
+      title: interested in steady returns if i accept lowewr returns
+    - payload: /choose{"financial_goal":"maximizing long term gains"}
+      title: interestesd in maximizing long term gains, even if i experience short
+        term losses
+    text: 'Choose the statement that best reflects your thoughts about reaching your
+      financial goal:'
+  utter_ask_income:
+  - buttons:
+    - payload: /choose{"income":"$0-$50,000"}
+      title: $0-$50,000
+    - payload: /choose{"income":"$50,001-$75,000"}
+      title: $50,001-$75,000
+    - payload: /choose{"income":"$75,001-$100,000"}
+      title: $75,001-$100,000
+    - payload: /choose{"income":"$100,001-$150,000"}
+      title: $100,001-$150,000
+    - payload: /choose{"income":"$150,001-$250,000"}
+      title: $150,001-$250,000
+    - payload: /choose{"income":"$250,001 +"}
+      title: $250,001 +
+    text: What is your annual income?
+  utter_ask_money:
+  - text: what is your account money?
+  utter_ask_name:
+  - text: OK, we need to collect some personal data. Could you please tell me you
+      name?
+  utter_ask_need:
+  - buttons:
+    - payload: /choose{"need":"1"}
+      title: bang
+    - payload: /choose{"need":"0"}
+      title: gun
+    text: Will you need up to ¼ of your portfolio within the next 10 years for a large
+      expense (house, college, etc.)?
+  utter_ask_networth:
+  - buttons:
+    - payload: /choose{"networth":"$0-$25,000"}
+      title: $0-$25,000
+    - payload: /choose{"networth":"$25,001-$50,000"}
+      title: $$25,001-$50,000
+    - payload: /choose{"networth":"$50,001-$100,000"}
+      title: $50,001-$100,000
+    - payload: /choose{"networth":"$100,001-$200,000"}
+      title: $100,001-$200,000
+    - payload: /choose{"networth":"$200,001-$350,000"}
+      title: $200,001-$350,000
+    - payload: /choose{"networth":"$350,001-$700,000"}
+      title: $350,001-$700,000
+    - payload: /choose{"networth":"$700,001-$1,000,000"}
+      title: $700,001-$1,000,000
+    - payload: /choose{"networth":"$1,000,000 +"}
+      title: $1,000,000 +
+    text: What is your net worth?
+  utter_ask_password:
+  - text: 'Please enter your password. '
+  utter_ask_returns:
+  - buttons:
+    - payload: /choose{"returns":"+-15"}
+      title: +-15
+    - payload: /choose{"returns":"+-10"}
+      title: +-10
+    - payload: /choose{"returns":"+-5"}
+      title: +-5
+    text: Which set of hypothetical portfolio returns in a year is most acceptable
+      to you?
+  utter_ask_tax:
+  - text: What is your tax rate?
+  utter_ask_would:
+  - buttons:
+    - payload: /choose{"would":"sell all"}
+      title: sell all of your investments
+    - payload: /choose{"would":"sell some"}
+      title: sell some
+    - payload: /choose{"would":"keep all"}
+      title: keep all
+    - payload: /choose{"would":"buy more"}
+      title: buy more
+    text: The global stock market is often volatile. If your entire investment portfolio
+      lost 10% of its value in a month during a market decline, what would you do?
+  utter_client:
+  - text: 'Have you already been a client? '
+  utter_goodbye:
+  - text: Talk to you later!
+  - text: Goodbye~
+  - text: Bye
+  - text: See you
+  - text: Sayounara
+  utter_greet:
+  - text: Hello, how can I help?
+  utter_thanks:
+  - text: My pleasure.
